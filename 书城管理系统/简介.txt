@@ -1,0 +1,2 @@
+系统采用html+css+JavaScript+jQuery+MySQL+tomcat+servlet+jsp+ajax实现：目前未实现订单的同步，属于初学者的练手项目，原作者视频来自尚硅谷在blibli的javaWeb教程视频。
+功能上属于基础的书籍增删查改功能。未导入数据，故图书的封面无法显示。
